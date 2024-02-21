@@ -1,5 +1,5 @@
 # Change these first
-owner: Master # Your GitHub organization or username, where this repository lives
+owner: rsipmonitoring # Your GitHub organization or username, where this repository lives
 repo: Rsipmonitoring # The name of this repository
 
 sites:
