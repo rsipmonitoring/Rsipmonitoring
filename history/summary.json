@@ -4,7 +4,7 @@
     "url": "http://sicepot.rsipurwokerto.co.id/",
     "icon": "https://icons.duckduckgo.com/ip3/sicepot.rsipurwokerto.co.id.ico",
     "slug": "sicepot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1877,
     "timeMonth": 1877,
     "timeYear": 1877,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-26": 0
+    }
   },
   {
     "name": "Wikipedia",
