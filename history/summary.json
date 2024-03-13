@@ -4,18 +4,19 @@
     "url": "http://sicepot.rsipurwokerto.co.id/",
     "icon": "https://icons.duckduckgo.com/ip3/sicepot.rsipurwokerto.co.id.ico",
     "slug": "sicepot",
-    "status": "up",
-    "uptime": "99.00%",
+    "status": "down",
+    "uptime": "99.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.00%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.02%",
     "time": 1897,
     "timeDay": 1813,
     "timeWeek": 1865,
     "timeMonth": 1897,
     "timeYear": 1897,
     "dailyMinutesDown": {
+      "2024-03-13": 0,
       "2024-02-27": 118,
       "2024-02-26": 181
     }
